@@ -27,11 +27,62 @@ Let's connect and explore the world of Flutter together! 🚀📱
 ![video](https://github.com/Pinkisingh13/Pinkisingh13/blob/main/Whatsapp_ui_video2.gif)
 
 
-A few resources to get you started if this is your first Flutter project:
+## ⚙️ Installation Steps
+### Clone the repository
+- Open your terminal or command prompt
+- Navigate to the directory where you want to save the project
+- Use the git clone command followed by the repository URL
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```sh
+git clone https://github.com/Pinkisingh13/whatsapp_ui_clone.git
+```
+### Install dependencies
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Navigate to the project's directory
+
+```sh
+cd <repository-name>
+```
+  
+- Run the following command to install the required packages
+
+```sh
+flutter pub get
+```
+### Generate Required files
+
+- Navigate to the project's directory
+
+```sh
+cd <repository-name>
+```
+
+- Run the following command to generate the required files
+
+```sh
+flutter pub run build_runner build --delete-conflicting-outputs 
+```
+
+### Connect a device or emulator
+
+* Physical Device
+
+  1. Enable USB debugging on your device
+  2. Connect it to your computer using a USB cable.
+
+* Emulator
+
+  1. Start an Android or iOS emulator using your preferred IDE or tools.
+ 
+### Run the Project
+
+- Use the following command to build and run the project
+
+```sh
+flutter run
+```
+
+## A few resources to get you started if this is your first Flutter project:
+
+### . [Flutter Documentation ](https://docs.flutter.dev/)
+
