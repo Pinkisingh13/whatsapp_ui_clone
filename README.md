@@ -16,6 +16,8 @@ I am excited to share this project with the community, and I hope it serves as a
 
 Let's connect and explore the world of Flutter together! 🚀📱
 
+- 📄 Know about my experiences [PinkiSinghResume](https://github.com/Pinkisingh13/Pinkisingh13/blob/main/PinkiSingh_Resume.pdf)
+
 ## Live Demonstration
 
 <h3 align="center"> WhatsApp Screens </h3>
@@ -85,4 +87,5 @@ flutter run
 ## A few resources to get you started if this is your first Flutter project:
 
 ### . [Flutter Documentation ](https://docs.flutter.dev/)
+
 
