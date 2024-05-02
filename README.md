@@ -14,10 +14,6 @@ I successfully completed this application within a span of 6 days. Despite the t
 ## Conclusion
 I am excited to share this project with the community, and I hope it serves as a valuable resource for fellow Flutter developers. Your feedback and suggestions are always welcome, and I look forward to your support and encouragement.
 
-Let's connect and explore the world of Flutter together! 🚀📱
-
-- 📄 Know about my experiences [PinkiSinghResume](https://github.com/Pinkisingh13/Pinkisingh13/blob/main/PinkiSingh_Resume.pdf)
-
 ## Live Demonstration
 
 <h3 align="center"> WhatsApp Screens </h3>
