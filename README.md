@@ -13,7 +13,8 @@ I successfully completed this application within a span of 6 days. Despite the t
 
 ## Conclusion
 I am excited to share this project with the community, and I hope it serves as a valuable resource for fellow Flutter developers. Your feedback and suggestions are always welcome, and I look forward to your support and encouragement.
-Show some ❤️ and star the repo to support the project.
+
+<h2> Show some ❤️ and star the repo to support the project. </h2>
 
 ## Live Demonstration
 
